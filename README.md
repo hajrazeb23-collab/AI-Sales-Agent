@@ -21,3 +21,8 @@ Production-ready AI Sales Agent for Business Automation.
 ## Status
 
 🚧 Under Development
+## Project Goals
+
+- Build a production-ready AI Sales Agent
+- Support WhatsApp, Email and CRM integrations
+- Provide multilingual AI customer support
